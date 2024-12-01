@@ -1,0 +1,15 @@
+D:\repos\WpfApp5\WpfApp5\bin\Debug\WpfApp5.exe.config
+D:\repos\WpfApp5\WpfApp5\bin\Debug\WpfApp5.exe
+D:\repos\WpfApp5\WpfApp5\bin\Debug\WpfApp5.pdb
+D:\repos\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csproj.AssemblyReference.cache
+D:\repos\WpfApp5\WpfApp5\obj\Debug\MainWindow.g.cs
+D:\repos\WpfApp5\WpfApp5\obj\Debug\App.g.cs
+D:\repos\WpfApp5\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.cache
+D:\repos\WpfApp5\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.lref
+D:\repos\WpfApp5\WpfApp5\obj\Debug\MainWindow.baml
+D:\repos\WpfApp5\WpfApp5\obj\Debug\WpfApp5.g.resources
+D:\repos\WpfApp5\WpfApp5\obj\Debug\WpfApp5.Properties.Resources.resources
+D:\repos\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csproj.GenerateResource.cache
+D:\repos\WpfApp5\WpfApp5\obj\Debug\WpfApp5.csproj.CoreCompileInputs.cache
+D:\repos\WpfApp5\WpfApp5\obj\Debug\WpfApp5.exe
+D:\repos\WpfApp5\WpfApp5\obj\Debug\WpfApp5.pdb
